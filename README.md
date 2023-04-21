@@ -1,2 +1,4 @@
 # got-papers-astrofra
-My how "got papers" files (see https://gotpapers.scene.org/)
+My own "got papers" files (see https://gotpapers.scene.org/)
+
+- Far West 2 demoparty report (text, sketches, photos)
